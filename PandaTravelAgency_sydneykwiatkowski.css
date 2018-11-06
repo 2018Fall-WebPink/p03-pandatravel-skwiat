@@ -1,0 +1,23 @@
+/*
+* Sydney Kwiatkowski
+* Due Date 
+* Project 03 - Panda Travel Agency
+*/
+
+/* The universal selector */
+
+*{
+
+}
+
+/* Body attributes here */
+
+body {
+    width: 75%;
+    margin: auto;
+background-color:lightcyan;
+}
+
+#outsideofthefort{width: 300px; height: 200px; }
+#aboveviewofthefort{width: 300px; height: 200px; }
+#barracks{width: 300px; 300px; }
